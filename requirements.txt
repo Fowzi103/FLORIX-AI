@@ -1,6 +1,7 @@
-gradio==5.49.1
+streamlit
 tensorflow
 numpy
 Pillow
 matplotlib
 reportlab
+opencv-python-headless
